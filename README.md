@@ -22,8 +22,8 @@ Esse sistema backend (api) foi desenvolvido para servir uma outra aplicação fr
 
 1. Clone o repositório para sua máquina:  
    ```sh
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone (https://github.com/eduardo-gabriel-frainer/Api_Back_Express_Typescript.git)
+   cd (https://github.com/eduardo-gabriel-frainer/Api_Back_Express_Typescript.git)
    ```  
 2. Compile o TypeScript para JavaScript:  
    ```sh
